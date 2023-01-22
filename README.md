@@ -13,7 +13,7 @@ Simply enter a number, an operator, and any other number, and this tool will giv
 - Enter one number
 - Enter an operator (so that you may enter another number)
 - Enter another number
-- From here you may either enter another operator to create a bigger math problem you are looking to solve (such as 5*5*2)
+- From here you may either enter another operator to create a bigger math problem you are looking to solve (such as 5 * 5 / 25)
 - When you're done entering numbers and operators, press the "=" button to get the result! 
 
 ##### Features Not Included:
