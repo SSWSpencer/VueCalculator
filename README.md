@@ -10,15 +10,15 @@ Welcome to your brand new tool of the future! Do you hate doing math? Do big num
 Simply enter a number, an operator, and any other number, and this tool will give you the result!
 
 ##### Features Included:
--Enter one number
--Enter an operator (so that you may enter another number)
--Enter another number
--From here you may either enter another operator to create a bigger math problem you are looking to solve (such as 5*5*2)
--When you're done entering numbers and operators, press the "=" button to get the result! 
+- Enter one number
+- Enter an operator (so that you may enter another number)
+- Enter another number
+- From here you may either enter another operator to create a bigger math problem you are looking to solve (such as 5*5*2)
+- When you're done entering numbers and operators, press the "=" button to get the result! 
 
 ##### Features Not Included:
--PEMDAS (your dear aunt sally was not excused)
--World peace
+- PEMDAS (your dear aunt sally was not excused)
+- World peace
 
 ##### Features that we don't know for certain if they're included, but can't say for certain _aren't_ included:
--The cure to cancer
+- The cure to cancer
